@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoMVC", "CursoMVC\CursoMVC.csproj", "{9BA0894B-8080-4D18-B771-FAE346DBB753}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoAPI", "CursoAPI\CursoAPI.csproj", "{BA1EB578-73C8-4262-8FB3-EEBABD93CE64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoTeste", "CursoTeste\CursoTeste.csproj", "{3B1EC23D-8F12-42C1-BF71-48715B92B32C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BA0894B-8080-4D18-B771-FAE346DBB753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA0894B-8080-4D18-B771-FAE346DBB753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA0894B-8080-4D18-B771-FAE346DBB753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA0894B-8080-4D18-B771-FAE346DBB753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA1EB578-73C8-4262-8FB3-EEBABD93CE64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA1EB578-73C8-4262-8FB3-EEBABD93CE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA1EB578-73C8-4262-8FB3-EEBABD93CE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA1EB578-73C8-4262-8FB3-EEBABD93CE64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B1EC23D-8F12-42C1-BF71-48715B92B32C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1EC23D-8F12-42C1-BF71-48715B92B32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B1EC23D-8F12-42C1-BF71-48715B92B32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B1EC23D-8F12-42C1-BF71-48715B92B32C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A72A4C1B-798D-414A-8F0B-6F13AD229925}
+	EndGlobalSection
+EndGlobal
